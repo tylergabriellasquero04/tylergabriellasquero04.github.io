@@ -2,7 +2,7 @@
   "basics": {
     "name": "Tyler Gabriel Lasquero",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "",
     "email": "tgal@hawaii.edu",
     "phone": "808-220-2376",
     "website": "https://tylergabriellasquero04.github.io",
@@ -15,11 +15,9 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Teaching" },
+    { "name": "Mathematics" },
+    { "name": "Gaming" }
   ],
   "skills": [
     {
