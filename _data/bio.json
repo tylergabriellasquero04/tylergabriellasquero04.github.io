@@ -21,19 +21,19 @@
   ],
   "skills": [
     {
-      "name": "",
-      "keywords": [ "" ]
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java, JavaScript, Python, C++" ]
     },
     {
-      "name": "",
-      "keywords": [ "" ]
+      "name": "ToolSets/OS",
+      "keywords": [ "MacOS, Git/GitHub, Eclipse, Visual Studio IDE" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Secondary Education & Computer Science (expected Spring 2028)",
-      "studyType": "BED",
+      "area": "Secondary Education - Mathematics & Computer Science (expected Spring 2028)",
+      "studyType": "BED, AS",
       "startDate": "2023-08-26",
       "endDate": "Present",
       "courses": [
