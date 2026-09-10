@@ -15,24 +15,24 @@
     ]
   },
   "interests": [
-    { "name": "Teaching" },
-    { "name": "Mathematics" },
+    { "name": "Teaching," }
+    { "name": "Mathematics," }
     { "name": "Gaming" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "",
+      "keywords": [ "" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "",
+      "keywords": [ "" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Secondary Education & Computer Science (expected Spring, 2018)",
+      "area": "Secondary Education & Computer Science (expected Spring, 2026)",
       "studyType": "BED",
       "startDate": "2023-08-26",
       "endDate": "Present",
@@ -47,36 +47,38 @@
       "website": "",
       "startDate": "2025-01-06",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Attend recitations that happen twice a week",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Supports the teaching assistant during recitations",
+        "Quiz proctoring",
+        "Helps students complete worksheets",
+        "Grade worksheet submissions"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Waipahu Intermediate School",
+      "position": "E-Sports Teacher",
+      "website": "https://www.waipahuintermediate.org/",
+      "startDate": "Summer 2024",
+      "endDate": "Summer 2026",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Reflection Ministries at Waipahu Free Will Baptist Church",
+      "website": "https://reflectionministries.com/",
+      "position": "Sunday School Teacher",
+      "startDate": "2021",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Leads a Sunday School Class for Elementary Students"
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
@@ -96,15 +98,15 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "20-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "Fall 2023-Spring 2026",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship was awarded for maintaning a 2.5+ GPA."
     }
   ],
   "references": [
