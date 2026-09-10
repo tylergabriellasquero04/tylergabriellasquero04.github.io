@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Tyler Gabriel Lasquero",
-    "label": "Student",
+    "label": "Student (Undergraduate)",
     "picture": "",
     "email": "tgal@hawaii.edu",
     "phone": "808-220-2376",
@@ -32,8 +32,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "area": "Secondary Education & Computer Science (expected Spring, 2018)",
+      "studyType": "BED",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
