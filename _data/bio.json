@@ -15,8 +15,8 @@
     ]
   },
   "interests": [
-    { "name": "Teaching," }
-    { "name": "Mathematics," }
+    { "name": "Teaching" },
+    { "name": "Mathematics" },
     { "name": "Gaming" }
   ],
   "skills": [
