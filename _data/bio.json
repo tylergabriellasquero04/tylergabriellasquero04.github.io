@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tyler Gabriel Lasquero",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "tgal@hawaii.edu",
+    "phone": "808-220-2376",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am a full-time student attending the University of Hawaii at Manoa. I'm currently in my 4th year attending the school. I am pursuing a Bachelor's Degree in Secondary Education - Mathematics. I'm also pursuing a minor in Computer Science. I'm expecting to graduate in Spring 2028.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
