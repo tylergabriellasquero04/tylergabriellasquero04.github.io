@@ -17,6 +17,7 @@
   "interests": [
     { "name": "Teaching" },
     { "name": "Mathematics" },
+    { "name": "Cybersecurity"},
     { "name": "Gaming" }
   ],
   "skills": [
@@ -47,9 +48,9 @@
       "website": "",
       "startDate": "2025-01-13",
       "endDate": "Present",
-      "summary": "Attend recitations that happen twice a week",
+      "summary": "Attend 2-3 different recitations that happen twice a week",
       "highlights": [
-        "Supports the teaching assistant during recitations",
+        "Supports the teaching assistants during recitations",
         "Quiz proctoring",
         "Helps students complete worksheets",
         "Grade worksheet submissions",
@@ -89,7 +90,7 @@
       "summary": "",
       "highlights": [
         "Member of the Junior Varsity (JV) Team",
-        "",
+        "Participate in practice pairings",
         ""
       ]
     }
