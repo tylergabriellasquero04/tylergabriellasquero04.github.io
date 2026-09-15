@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: "AOIT Floorplan"
-date: 2022/23
+date: 2022
 published: true
 labels:
   - High School 
