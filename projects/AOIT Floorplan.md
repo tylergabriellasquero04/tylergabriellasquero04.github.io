@@ -6,9 +6,9 @@ title: "AOIT Floorplan"
 date: 2022-2023
 published: true
 labels:
-  - 
-  - 
-summary: "A project that I worked on with a few other people during Waipahu High School. CTE Honors Project"
+  - High School 
+  - CTE Honors
+summary: "A project that I worked on with a few other people during Waipahu High School."
 ---
 
 <img class="="">
