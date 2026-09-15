@@ -8,7 +8,7 @@ published: true
 labels:
   - High School 
   - CTE Honors
-summary: "A project that I worked on with a few other people during Waipahu High School."
+summary: "A project that I worked on with a few other people during my Computer Science classes in my Junior and Senior years at Waipahu High School."
 ---
 
 <img class="="">
