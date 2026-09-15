@@ -13,8 +13,6 @@ summary: "A project that I worked on with a few other people during Waipahu High
 
 <img class="="">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
 
 <hr>
 
