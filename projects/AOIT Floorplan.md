@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: 
 title: "AOIT Floorplan"
 date: 2022-2023
 published: true
