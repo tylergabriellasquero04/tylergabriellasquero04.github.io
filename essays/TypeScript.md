@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The difficult things will always be difficult"
 # All dates must be YYYY-MM-DD format!
-date: 2026-09-
+date: 2026-09-00
 published: true
 labels:
   - Engineering
