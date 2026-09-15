@@ -102,6 +102,18 @@
   ],
   "awards": [
     {
+      "title": "Academic Honors",
+      "date": "2023",
+      "awarder": "Hawaii Department of Education",
+      "summary": "Awarded by the Hawaii State Department of Education to students who graduated high school with 4 credits of math and science, as well as 2 credits in AP/IB/Running Start courses. ",
+    },
+     {
+      "title": "CTE Honors",
+      "date": "2023",
+      "awarder": "Hawaii Department of Education",
+      "summary": "Awarded by the Hawaii State Department of Education to students who complete a CTE program of study and meet specific academic and performance benchmarks. ",
+    },
+    {
       "title": "B+ Scholarship",
       "date": "2023-Present",
       "awarder": "State of Hawaii",
