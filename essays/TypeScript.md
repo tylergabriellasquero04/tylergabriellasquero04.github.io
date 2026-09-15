@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Placeholder"
 # All dates must be YYYY-MM-DD format!
-date: 2026-09-00
+date: 2026-09-14
 published: true
 labels:
   - TypeScript
