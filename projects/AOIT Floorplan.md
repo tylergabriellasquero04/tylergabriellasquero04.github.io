@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: 
-title: "AOIT Floorplan"
-date: 2022-2023
+title: "AOIT FloorPlan"
+date: 2021-2023
 published: true
 labels:
   - High School 
@@ -17,7 +17,9 @@ summary: "A project that I worked on with a few other people during my Computer 
 <hr>
 
 <pre>
-Placeholder
+This project basically was a 2-3 year thing. 
+It started out as a mini classroom redesign project 
+
 </pre>
 
 <hr>
