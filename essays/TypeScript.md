@@ -6,6 +6,7 @@ title: "My Intro to TypeScript"
 date: 2026-09-17
 published: true
 labels:
+  - Programming
   - TypeScript
   - Learning
 ---
