@@ -22,5 +22,5 @@ However, when AOIT moved classrooms, the project went from small to big.
 So, instead of having to redesign one corner of the classroom my project mates and I were to redesign an entire classroom. 
 
 Source: <a href="https://drive.google.com/drive/folders/1iirY9N4ej8txRO4aOp9mL0bdumykEFTj?usp=drive_link">
-  <i class="large google drive icon"></i>Google Drive
+  <i class="large google drive icon"></i>CTE Honors Project
 </a>
