@@ -3,14 +3,14 @@ layout: essay
 type: essay
 title: "My Beginnings with TypeScript"
 # All dates must be YYYY-MM-DD format!
-date: 2026-09-14
+date: 2026-09-17
 published: true
 labels:
   - TypeScript
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="coding-1200-x-1200-picture-ct3sscf9s491aq9q.jpg">
 
 
 
