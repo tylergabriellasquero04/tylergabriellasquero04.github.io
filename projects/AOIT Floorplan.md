@@ -21,4 +21,4 @@ This corner of the classroom was a mini corner room. The redesign would have dif
 However, when AOIT moved classrooms, the project went from small to big. 
 So, instead of having to redesign one corner of the classroom my project mates and I were to redesign an entire classroom. 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>[https://drive.google.com/drive/folders/1iirY9N4ej8txRO4aOp9mL0bdumykEFTj?usp=drive_link](url)</a>
