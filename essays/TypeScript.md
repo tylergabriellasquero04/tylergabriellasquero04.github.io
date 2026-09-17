@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Beginnings with TypeScript"
+title: "Hell0"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-17
 published: true
@@ -13,7 +13,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="coding-1200-x-1200-picture-ct3sscf9s491aq9q.jpg">
 
 ## Coding/Programming Experiences Pre-College
-Prior to TypeScript, I remember my first time experiencing, or rather, playing with code was about 10 years ago while I was homeschooled. I recall my older brother asking me to practice coding on Codecademy. After that, when I first started attending Waipahu High School in 2019, I was reintroduced to coding during my Freshman year. During that time, I don’t recall what coding language I was working in. I didn’t return to working with code in high school until my Senior year. At that time, I do recall working in Java or talking about Java in my Computer Science work-based learning class. I also recall the mention of other programming languages such as JavaScript, Python, C, and C++. 
+Before TypeScript, I remember my first time experiencing, or rather, playing with code was about 10 years ago while I was homeschooled. I recall my older brother asking me to practice coding on Codecademy. After that, when I first started attending Waipahu High School in 2019, I was reintroduced to coding during my Freshman year. During that time, I don’t recall what coding language I was working in. I didn’t return to working with code in high school until my Senior year. At that time, I do recall working in Java or talking about Java in my Computer Science work-based learning class. I also recall the mention of other programming languages such as JavaScript, Python, C, and C++. 
 
 
 ## Coding/Programming Experiences During College
