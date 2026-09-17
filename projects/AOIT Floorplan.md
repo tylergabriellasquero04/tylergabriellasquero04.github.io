@@ -13,18 +13,12 @@ summary: "A project that I worked on with a few other people during my Computer 
 
 <img class="="">
 
-<hr>
-
 Under the banner of the Academy of Information Technology (AOIT), this project was supervised by my Computer Science teacher. Mrs. Cindy Takara.
 
-When the project started out during my Junior year of high school, the project started out small where me and my project mates were redesigning this one corner of the classroom. 
-
-This corner of the classroom was this mini corner room. The redesign would have different areas such as lounge area, work area, an AI/VR area, and a planning area. 
+When the project started during my Junior year of high school, it started out small, where my project mates and I were redesigning this one corner of the classroom. 
+This corner of the classroom was a mini corner room. The redesign would have different areas such as a lounge area, a work area, an AI/VR area, and a planning area. 
 
 However, when AOIT moved classrooms, the project went from small to big. 
-
-Instead of having to redesign one corner of the classroom my project mates and I were to redesign an entire classroom. 
-
-<hr>
+So, instead of having to redesign one corner of the classroom my project mates and I were to redesign an entire classroom. 
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
