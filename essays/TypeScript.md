@@ -32,7 +32,7 @@ As mentioned in a previous paragraph, I said my favorite programming language is
 
 
 ## Conclusion
-Overall, despite not recalling or having prior knowledge of TypeScript, I believe TypeScript and I will get along. Once I get accustomed to TypeScript, I feel the same way about it as I do with Java. Hopefully, after taking ICS 314, I will end up using TypeScript in projects in my future career. 
+Overall, despite not recalling or having prior knowledge of TypeScript, I believe TypeScript and I will get along. Once I get accustomed to TypeScript, I will feel the same way about it as I do with Java. Hopefully, after taking ICS 314, I will end up using TypeScript in projects in my future career. 
 
 
 ## AI Usage
