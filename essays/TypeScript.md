@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Placeholder"
+title: "My Beginnings with TypeScript"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-14
 published: true
@@ -12,7 +12,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-**
+
 
 ## Coding/Programming Experiences Pre-College
 Prior to TypeScript, I remember my first time experiencing, or rather, playing with code was about 10 years ago while I was homeschooled. I recall my older brother asking me to practice coding on Codecademy. After that, when I first started attending Waipahu High School in 2019, I was reintroduced to coding during my Freshman year. During that time, I don’t recall what coding language I was working in. I didn’t return to working with code in high school until my Senior year. At that time, I do recall working in Java or talking about Java in my Computer Science work-based learning class. I also recall the mention of other programming languages such as JavaScript, Python, C, and C++. 
@@ -36,7 +36,7 @@ As mentioned in a previous paragraph, I said my favorite programming language is
 Overall, despite not recalling or having prior knowledge of TypeScript, I believe TypeScript and I will get along. Once I get accustomed to TypeScript, I feel the same way about it as I do with Java. Hopefully, after taking ICS 314, I will end up using TypeScript in projects in my future career. 
 
 
-##AI Usage
+## AI Usage
 Utilized Grammarly to help with spell-checking, grammar, and punctuation.
 
 
