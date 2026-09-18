@@ -1,26 +1,27 @@
 ---
 layout: essay
 type: essay
-title: "A Smart or Dumb Question"
+title: "Asking the Smart Way"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-17
 published: true
 labels:
   - Smart Questions
+  - Right vs Wrong
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="coding-1200-x-1200-picture-ct3sscf9s491aq9q.jpg">
+<img width="400px" class="rounded float-start pe-4" src="">
 
-## Coding/Programming Experiences Pre-College
+## Introduction
 Before
 
 
-## Coding/Programming Experiences During College
+## An Excellent Question
 When
 
 
 
-## Initial Thoughts on TypeScript
+## A Poor Question
 I 
 
 
