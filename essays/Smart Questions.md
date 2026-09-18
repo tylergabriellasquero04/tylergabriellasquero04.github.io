@@ -23,7 +23,7 @@ In his essay, Eric Steven Raymond provides a guide on how one should go about as
 
 ## An Excellent Question
 
-<img src="stackoverflow-reject-changes.png" alt="Stack Overflow DataRow RejectChanges Question" width="600">
+<img src="stackoverflow-reject-changes.png" alt="Stack Overflow DataRow RejectChanges Question" width="400">
 
 Source: [View the original Stack Overflow question](https://stackoverflow.com/questions/80003871/datarow-rejectchanges-does-not-prevent-changes-from-being-written-to-the-underly)
 
@@ -32,7 +32,7 @@ This is an example where the poster doesn’t start off with a question as their
 
 ## A Not So Great Question
 
-<img src="stackoverflow-pysimplegui.png" alt="Stack Overflow PySimpleGUI Question" width="600">
+<img src="stackoverflow-pysimplegui.png" alt="Stack Overflow PySimpleGUI Question" width="400">
 
 
 Source: [View the original Stack Overflow question](https://stackoverflow.com/questions/80003864/how-do-i-use-pysimplegui6-to-make-an-app)
