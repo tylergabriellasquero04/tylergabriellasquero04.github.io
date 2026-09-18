@@ -21,11 +21,32 @@ In his essay, Eric Steven Raymond provides a guide on how one should go about as
 
 
 ## An Excellent Question
-
+<figure class="essay-image">
+  <a
+    href="https://stackoverflow.com/questions/80003871/datarow-rejectchanges-does-not-prevent-changes-from-being-written-to-the-underly"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="images/stackoverflow-reject-changes.png"
+      alt="Stack Overflow question about DataRow RejectChanges"
+    >
+  </a>
 This is an example where the poster doesn’t start off with a question as their subheading, but instead they end their post with a question. In their subheading, the poster puts a problem they are having with their Datarow.RejectChanges function. In the beginning of their description, the poster provides details on what IDE they are working in and what it is trying to do. The poster also mentions that they did a few tests with their function and checked to see what was changed. They also checked for errors. Throughout the rest of the post, the poster provides a step-by-step explanation of what they were trying to do and also provides some code along with each step (which providing code within your question was something Eric Steven Raymond mentions in his essay). Once the poster finishes explaining their process, they end with a question asking, “What step am I missing?” Providing a step-by-step explanation within their post makes it easier for the poster to get readers to understand what the poster is trying to do. This allows readers to also work out what the poster was doing and formulate a solution to help the poster fix their problem.
 
 
 ## A Not So Great Question
+<figure class="essay-image">
+  <a
+    href="https://stackoverflow.com/questions/80003864/how-do-i-use-pysimplegui6-to-make-an-app"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="images/stackoverflow-pysimplegui.png"
+      alt="Closed Stack Overflow question asking how to use PySimpleGUI"
+    >
+  </a>
 Here is an excellent way to not ask a question. The poster is straight to the point in asking their question, but it comes with a caveat. The tone in their voice within their description sounds a bit demanding. Starting with “I need to know,” or “Tell me how” isn’t the best way to ask a question in an online forum. Additionally, the poster repeats three times that they want to use PySimpleGUI6 to make an app. From a reader’s perspective, it’ll be a bit annoying to read something they already know the poster wants when the poster has already written in their subheading what they are trying to accomplish. Also, ending with “I can make all sorts of things with it”, with it being their app in this case, poses a lot of questions about what those things can be. 
 
 
