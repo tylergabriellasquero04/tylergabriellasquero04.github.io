@@ -12,8 +12,7 @@ labels:
 
 <img width="400px"
      class="rounded float-start pe-4"
-     src="../img/software-engineering/coder_190517.jpg"
-     alt="Software engineer working at a computer">
+     src="/img/SoftwareEngineering/coder_190517.jpg">
 
 ## My Pathway in College
 Being in this position in ICS 314, taking this class not because it's required for a Computer Science major track but to fulfill a Computer Science minor requirement, is unique, to say the least. Being a Secondary Education - Mathematics major and having a minor in Computer Science is also interesting for me, and it might be for others. Both fields of study do share similarities in the sense that both involve math. Wanting to be a math teacher obviously involves me teaching mathematics, while within computer science, the coding languages that I’ve used so far, like Java, Python, and C++, utilize mathematical computations. My current college pathway stems all the way from public school, starting in elementary school, with my primary interest in teaching. My secondary interest, computer science, began in high school. 
