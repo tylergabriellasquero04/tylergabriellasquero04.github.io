@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/aoit-floorplan/AOIT-Floor-Plan.png
-title: "AOIT Floorplan"
+title: "AOIT FloorPlan"
 date: Fall 2021- Spring 2023
 published: true
 labels:
@@ -12,7 +12,7 @@ summary: "A project that I worked on with a few other people during my Computer 
 ---
 
 <img
-  src="../images/aoit-floorplan/AOIT-Floor-Plan.png"
+  src="{{ '/images/aoit-floorplan/AOIT-Floor-Plan.png' | relative_url }}"
   class="img-fluid rounded d-block mx-auto mb-4"
   width="600"
   alt="AOIT Floor Plan"
@@ -24,17 +24,17 @@ When the project started during my Junior year of high school, it started out sm
 This corner of the classroom was a mini corner room. The redesign would have different areas such as a lounge area, a work area, an AI/VR area, and a planning area. 
 
 <img
-  src="../images/aoit-floorplan/Mini-Blueprint.png"
+  src="{{ '/images/aoit-floorplan/Mini-Blueprint.png' | relative_url }}"
   class="img-fluid rounded d-block mx-auto my-4"
   width="500"
   alt="AOIT Mini Classroom Blueprint"
 >
 
 However, when AOIT moved classrooms, the project went from small to big. 
-So, instead of having to redesign one corner of the classroom my project mates and I were to redesign an entire classroom. 
+So, instead of having to redesign one corner of the classroom, my project mates and I were to redesign an entire classroom. 
 
 <img
-  src="../images/aoit-floorplan/Larger-Blueprint.png"
+  src="{{ '/images/aoit-floorplan/Larger-Blueprint.png' | relative_url }}"
   class="img-fluid rounded d-block mx-auto my-4"
   width="900"
   alt="AOIT Larger Classroom Blueprint"
