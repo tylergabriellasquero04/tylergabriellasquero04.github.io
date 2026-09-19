@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/aoit-floorplan/AOIT-Floor-Plan.png
-title: "AOIT FloorPlan"
-date: Fall 2021 - Spring 2023
+title: "AOIT Floorplan"
+date: Fall 2021- Spring 2023
 published: true
 labels:
   - High School 
@@ -31,7 +31,7 @@ This corner of the classroom was a mini corner room. The redesign would have dif
 >
 
 However, when AOIT moved classrooms, the project went from small to big. 
-So, instead of having to redesign one corner of the classroom, my project mates and I were to redesign an entire classroom. 
+So, instead of having to redesign one corner of the classroom my project mates and I were to redesign an entire classroom. 
 
 <img
   src="../images/aoit-floorplan/Larger-Blueprint.png"
