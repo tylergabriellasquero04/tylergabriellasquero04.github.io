@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/aoit-floorplan/AOIT-Floor-Plan.png
 title: "AOIT FloorPlan"
-date: Fall 2021- Spring 2023
+date: Fall 2021 - Spring 2023
 published: true
 labels:
   - High School 
