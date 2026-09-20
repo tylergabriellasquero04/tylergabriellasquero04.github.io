@@ -8,7 +8,7 @@ published: true
 labels:
   - High School 
   - Science Fair
-summary: "A science fair project I did with two classmates turned into high school friends. The project was done during my Freshman year at Waipahu High School."
+summary: "A science fair project I did with two classmates, who became high school friends. The project was done during my Freshman year at Waipahu High School."
 ---
 
 <img src="../img/Solar Panels/Make-Shift-Solar-Panel.png"
