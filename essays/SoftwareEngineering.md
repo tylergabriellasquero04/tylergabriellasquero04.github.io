@@ -23,10 +23,10 @@ At my high school, Waipahu High School, we have an academy system, which works l
 
 
 ## Current and Future Plans with Software Engineering
-
+Transitioning from the past to now, my interests in computer science still hold to this day. As mentioned in my first paragraph, I am currently doing a minor in computer science. Right now, I do have some interests in software engineering since I like doing coding projects and programming. I have already taken previous ICS classes here at UHM such as 111, 141, 211, 212, and 241, which have also contributed to my interest in software engineering since those classes involve a lot of coding. Besides software engineering, I am also interested in cybersecurity, so I am concurrently taking ICS 355: Security and Trust I. When it comes to my future in computer science, software engineering, and more, I am hoping to continue to learn new programming languages by taking ICS 314, as well as new cybersecurity concepts in ICS 355. Then, once I graduate from college, even though my primary career focus is being a math teacher, I hope that I can also get a secondary job in IT so that I can continue to use the knowledge I learned through taking computer science classes in software engineering, cybersecurity, and more. Lastly, on an interesting note, I could also become a computer science teacher in the future. 
 
 ## Conclusion
-Overall, 
+To sum it up, although I’m in a unique position where I’m in a software engineering class but not majoring in computer science, whilst having a major focused on math education, I am still interested in computer science and software engineering. With that being said, with my current pathway, I could combine both of my interests in math education and computer science into one. 
 
 
 ## AI Usage
