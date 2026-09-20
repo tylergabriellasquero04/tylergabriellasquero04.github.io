@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Solar Angles/Photovoltaic Panels.jpg
+image: img/Solar Panels/Photovoltaic Panels.jpg
 title: "Solar Angles"
 date: Spring 2020
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A science fair project I did with two classmates turned into high school friends. The project was done during my Freshman year at Waipahu High School."
 ---
 
-<img src="../img/Solar Angles/Make-Shift-Solar-Panel.png"
+<img src="../img/Solar Panels/Make-Shift-Solar-Panel.png"
      class="rounded d-block mx-auto mb-4"
      style="width: 80%; max-width: 900px;"
      alt="Sketch and real setup of the miniature solar panel">
@@ -26,14 +26,14 @@ So after my groupmates and I created our miniature solar panel and did our tests
 
 ### Data Table
 
-<img src="../img/Solar Angles/Energy Data-Table.png"
+<img src="../img/Solar Panels/Energy Data-Table.png"
      class="rounded d-block mx-auto mb-4"
      style="width: 80%; max-width: 900px;"
      alt="Solar panel angle energy data table">
 
 ### Bar Graph
 
-<img src="../img/Solar Angles/Energy Data-Bar Graph.png"
+<img src="../img/Solar Panels/Energy Data-Bar Graph.png"
      class="rounded d-block mx-auto mb-4"
      style="width: 80%; max-width: 900px;"
      alt="Bar graph showing solar panel energy measurements at different angles">
