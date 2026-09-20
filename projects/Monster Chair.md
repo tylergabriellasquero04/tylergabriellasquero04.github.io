@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Monster Chair.jpg
+image: img/Monster Chair/Monster Chair.jpg
 title: "The Monstrous Chair"
 date: Fall 2022 - Spring 2023
 published: true
