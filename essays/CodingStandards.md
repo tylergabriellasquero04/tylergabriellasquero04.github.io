@@ -6,7 +6,7 @@ title: "Coding Standards Reflection"
 date: 2026-09-24
 published: true
 labels:
-  - 
+  - VSCode
   - 
 ---
 
