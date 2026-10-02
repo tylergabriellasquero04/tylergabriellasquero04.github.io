@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="Smart Questions!.png">
+<img width="400px" class="rounded float-start pe-4" src="/img/CodingStandards/Coding%20Standards.png">
 
 ## Importance of Coding Standards
 
