@@ -12,7 +12,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="Smart Questions!.png">
+<img width="400px" class="rounded float-start pe-4" src="../images/UX-UI-Framework.png" alt="UI Frameworks">
 
 ## Introduction
 
@@ -30,12 +30,23 @@ According to the official Bootstrap 5 documentation, Bootstrap is designed to he
 
 Before doing the experiences and assignments for ICS 314 involving Bootstrap 5, I had no prior knowledge of this UI framework or CSS, although I had heard of HTML before. However, going through the Bootstrap 5 assignments helped me become more familiar with these tools. These assignments allowed me to recreate websites such as Island Snow, Murphy’s, and Banyans. One assignment I particularly enjoyed was choosing a website to recreate on my own. This was a fun and personal experience for me because I chose to recreate the official Super Smash Bros. website.
 
+<div class="text-center my-4">
+  <img
+    src="../images/smash-bootstrap.png"
+    class="img-fluid rounded"
+    alt="My Super Smash Bros. website recreated using Bootstrap 5"
+  >
+  <p class="text-muted mt-2">
+    Figure 1: My recreation of the Super Smash Bros. website using Bootstrap 5 for ICS 314.
+  </p>
+</div>
+
 An important thing I noticed while going through these assignments was how useful Bootstrap’s layout system was. Using containers, rows, and columns allowed me to better organize different parts of a webpage without having to write as much CSS. However, I ran into a few challenges, especially when trying to make my websites look similar to the provided examples. For instance, when recreating Murphy’s website, I had to make adjustments to the spacing and alignment of certain parts to make it as close as possible to the given example. Additionally, I had issues with images not loading properly in some of my projects. 
 
 Although these problems were frustrating, to say the least, they helped me become more familiar with Bootstrap and understand how it works alongside HTML and CSS. I also learned that Bootstrap doesn’t automatically make everything look perfect, and sometimes you have to make adjustments yourself. 
 
 
-## Software Enginnering Benefits
+## Software Engineering Benefits
 
 Another thing I noticed about UI frameworks is that they can make working on larger projects much easier. Bootstrap provides tools such as reusable components and consistent styling, which can be useful when multiple developers are working on the same website. Instead of each person creating their own styles for similar elements, they can use the same Bootstrap classes to keep things consistent.
 
