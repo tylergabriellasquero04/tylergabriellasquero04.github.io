@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Asking the Smart Way"
+title: "UI Frameworks: Making Web Development Easier"
 # All dates must be YYYY-MM-DD format!
 date: 2026-10-15
 published: true
