@@ -12,7 +12,12 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../images/UX-UI-Framework.png" alt="UI Frameworks">
+<img
+  width="400px"
+  class="rounded float-start pe-4"
+  src="{{ '/images/UX-UI-Framework.png' | relative_url }}"
+  alt="UI Frameworks"
+>
 
 ## Introduction
 
@@ -32,7 +37,7 @@ Before doing the experiences and assignments for ICS 314 involving Bootstrap 5, 
 
 <div class="text-center my-4">
   <img
-    src="../images/smash-bootstrap.png"
+    src="{{ '/images/smash-bootstrap.png' | relative_url }}"
     class="img-fluid rounded"
     alt="My Super Smash Bros. website recreated using Bootstrap 5"
   >
