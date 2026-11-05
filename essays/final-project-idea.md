@@ -10,7 +10,7 @@ labels:
   - nextJS
 ---
 
-## Final Project Idea: UH Manoa Forums 
+## UH Manoa Forums 
 
 ## Proposers
 Ethan Batin ([ebatin@hawaii.edu](url))
